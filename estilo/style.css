@@ -162,6 +162,8 @@ aside{
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.514);
 }
 aside > ul{
+    font-size: 0.8em;
+    line-height: 2;
     list-style-position: inside;
     list-style-type: '\2714\00a0\00a0';
     columns: 2;
